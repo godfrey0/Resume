@@ -123,16 +123,16 @@ Singapore Business Federation Business Institute
 - Steps to Build A Cyber-Security Strategy for the International Market 2018 
 -
 Other Qualification:
-- Master of Business Administration ~ University of Adelaide 2001
-- Bachelor in Ministry ~ Theological Centre for Asia 1996
-- Diploma in Theology ~ Singapore Bible College 1987
-- Diploma LTI ~ CEF Missouri 1984
-- Specialist Diploma in Franchise & Enterprise ~ Ngee Ann Polytechnic 2017
-- Qualified Medical Representative ~ Singapore Pharmaceutical Industries, SAPI 1994 
-- Building Construction Authority ~ Certified Installer for Air-conditioning Unit 2014
-- Ministry of Manpower, Singapore ~ Certified Biz Safe Level 1,2 & 3 Risk Management 2016 
+- Master of Business Administration, University of Adelaide 2001
+- Bachelor in Ministry, Theological Centre for Asia 1996
+- Diploma in Theology, Singapore Bible College 1987
+- Specialist Diploma in Franchise & Enterprise, Ngee Ann Polytechnic 2017
+- Qualified Medical Representative, Singapore Pharmaceutical Industries SAPI 1994 
+- Building Construction Authority, Certified Installer for Air-conditioning Unit 2014
+- Ministry of Manpower, Singapore, Certified Biz Safe Level 1,2 & 3 Risk Management 2016 
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
-- Certificate of Achievment ~ Dirad 2020
-- Executive Program ~ SOLTAM Systems Ltd, Haifa, Israel 1976
+- Certificate of Achievment, Dirad 2020
+- Diploma LTI, CEF Missouri 1984
+- Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 End of Statement
