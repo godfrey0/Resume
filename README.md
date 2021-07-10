@@ -12,52 +12,52 @@ Ong Ser Thong, Adelaide MBA
 -
 EXPERIENCE:
 -
-SUCCESS FOREVER CONSTRUCTION 2018 - 2019, 
+SUCCESS FOREVER CONSTRUCTION 2018 - 2020 
 - Project Manager
 - Performed structural repair work for HDB and Town Council
 -
-ETANA RESOURCES PTE LTD 2017 - 2018, 
+ETANA RESOURCES PTE LTD 2017 - 2018 
 - Senior Engineer
 - Maintenance of sensitive equipment for SAF
 -
-TRADISITICS PTE LTD 2000 - 2017, 
+TRADISITICS PTE LTD 2000 - 2017
 - Executive Director
-- (notable partners):
-- GAIN CITY ENGINEERING,
-- NOJIMA COURTS SUPERSTORE, 
-- BEST DENKI,
-- HARVEY NORMAN,
-- IC FRITH,
-- FAIR PRICE,
-- OFFICE 1,
-- IDA NEU PC PLUS,
-- BOOKWORM COUNSULTANTS,
-- NEC COMPUTERS INTERNATIONAL, 
+- (notable partners)
+- GAIN CITY ENGINEERING
+- NOJIMA COURTS SUPERSTORE 
+- BEST DENKI
+- HARVEY NORMAN
+- IC FRITH
+- FAIR PRICE
+- OFFICE 1
+- IDA NEU PC PLUS
+- BOOKWORM COUNSULTANTS
+- NEC COMPUTERS INTERNATIONAL 
 -
-MINUS 10 PTE LTD 2000 - 2000, 
+MINUS 10 PTE LTD 2000 - 2000 
 - Chief Information Officer 
 - eCommerce 
 -
-RHONE POULENC – SANOFI 1993 - 2001,
+RHONE POULENC – SANOFI 1993 - 2001
 - Medical Executive
 - Consumable Drugs / Vaccines
 -
-ELTEAN AGENCIES PTE LTD 1990 - 1993,
+ELTEAN AGENCIES PTE LTD 1990 - 1993
 - Products Executive
 - Skin Care Products
 -
-BETHESDA HALL AMK 1989 - 1990,
+BETHESDA HALL AMK 1989 - 1990
 - Chief Instructor
 - Queensland Mailbox Bible Correspondence Course 
 -
-SAF OETI 1973 - 1983,
+SAF OETI 1973 - 1983
 - Ordnance Engineering Training Institute 
 - Senior Instructor School of Doctrine 
 -
 EDUCATION:
 - 
-National University of Singapore 2021 ~ Present,
-- 
+National University of Singapore 
+- from 2021 to Present
 Professional Certificate in Fintech Senior Developer 2021, 
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
