@@ -50,9 +50,9 @@ BETHESDA HALL AMK 1989 - 1990
 - Queensland Mailbox Bible Correspondence Course 
 -
 SAF OETI 1973 - 1983
+- Senior Instructor School of Doctrine
 - Ordnance Engineering Training Institute 
-- Senior Instructor School of Doctrine 
-
+ 
 # EDUCATION
 Professional Certificate in NUS Fintech Senior Developer 2021
 - courses completed:
