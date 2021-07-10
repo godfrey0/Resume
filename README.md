@@ -91,7 +91,7 @@ edX Verified Certificate:
 - University of Michigan, Programming for Everybody Getting Started with Python 2021 
 - Imperial College London, Creative Thinking: Techniques and Tools 2021 
 -
-National University of Singapore: 
+National University of Singapore, School of Computing
 - courses completed:
 - APIs and RPA: Automation, Bots and Future programme 2021
 - Developers Toolkit Part 2: Middleware to Backend programme 2021
