@@ -37,7 +37,7 @@ MINUS 10 2000 - 2000
 - Chief Information Officer 
 - eCommerce 
 -
-RHONE POULENC – SANOFI 1993 - 2001
+RHONE POULENC, SANOFI PHARMA 1993 - 2001
 - Medical Executive
 - Consumable Drugs / Vaccines
 -
