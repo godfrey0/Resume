@@ -10,8 +10,8 @@ Ong Ser Thong, Adelaide MBA.
 - | www.linkedin.com/in/godfrey0-b13a49208 | 
 - | https://v2.credential.net/profile/ongserthong325210/wallet |
 
-# EXPERIENCE:
--
+# EXPERIENCE
+
 SUCCESS FOREVER CONSTRUCTION 2018 - 2020 
 - Project Manager
 - Performed structural repair work for HDB and Town Council
@@ -54,10 +54,9 @@ SAF OETI 1973 - 1983
 - Ordnance Engineering Training Institute 
 - Senior Instructor School of Doctrine 
 
-# EDUCATION:
-- 
-National University of Singapore 
-- 2021 ~ Present
+# EDUCATION
+
+National University of Singapore, 2021 ~ Present
 - 
 Professional Certificate in Fintech Senior Developer 2021
 - courses completed:
