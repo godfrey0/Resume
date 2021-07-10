@@ -1,8 +1,8 @@
 Resume
 
 Ong Ser Thong, Adelaide MBA
-- +65 81813136
-- 
+
+- | +65 81813136 |
 - | serthongong@gmail.com |
 - | https://github.com/godfrey0 | 
 - | https://github.com/godfrey0/resume.git |
@@ -135,6 +135,6 @@ Other Qualification:
 - Ministry of Manpower, Singapore ~ Certified Biz Safe Level 1,2 & 3 Risk Management 2016, 
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981,
 - Certificate of Achievment ~ Dirad 2020,
-- Executive Proram ~ SOLTAM Systems Ltd, Haifa, Israel 1976,
-
+- Executive Program ~ SOLTAM Systems Ltd, Haifa, Israel 1976,
+-
 End of Statement
