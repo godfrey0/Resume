@@ -22,16 +22,16 @@ Maintenance of sensitive equipment for SAF
 TRADISITICS PTE LTD 2000 - 2017 
 Executive Director
 Notable Partners:
-GAIN CITY ENGINEERING,
-NOJIMA COURTS SUPERSTORE, 
-BEST DENKI,
-HARVEY NORMAN,
-IC FRITH,
-FAIR PRICE,
-OFFICE 1,
-IDA NEU PC PLUS,
-BOOKWORM COUNSULTANTS,
-NEC COMPUTERS INTERNATIONAL, 
+~ GAIN CITY ENGINEERING,
+~ NOJIMA COURTS SUPERSTORE, 
+~ BEST DENKI,
+~ HARVEY NORMAN,
+~ IC FRITH,
+~ FAIR PRICE,
+~ OFFICE 1,
+~ IDA NEU PC PLUS,
+~ BOOKWORM COUNSULTANTS,
+~ NEC COMPUTERS INTERNATIONAL, 
 
 MINUS 10 PTE LTD 2000 - 2000 
 Chief Information Officer 
@@ -87,10 +87,10 @@ The Faculty of Arts and Social Sciences through five courses aimed
 at developing and enriching both the learner’s mind and heart. 
 
 edX Verified Certificate:
-University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
-Harvard University, CS50’s Computer Science for Business Professionals 2021 
-University of Michigan, Programming for Everybody Getting Started with Python 2021 
-Imperial College London, Creative Thinking: Techniques and Tools 2021 
+~ University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
+~ Harvard University, CS50’s Computer Science for Business Professionals 2021 
+~ University of Michigan, Programming for Everybody Getting Started with Python 2021 
+~ Imperial College London, Creative Thinking: Techniques and Tools 2021 
 
 National University of Singapore: 
 ~ APIs and RPA: Automation, Bots and Future programme 2021,
