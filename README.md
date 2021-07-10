@@ -82,9 +82,10 @@ Professional Certificate in Business Analytics & AI for Finance, Retail & Supply
 -
 Professional Certificate in Human and Automated Managerial Skills 2021
 - courses completed:
-- The Faculty of Arts and Social Sciences through five courses aimed at developing and enriching both the learner’s mind and heart. 
+- The Faculty of Arts and Social Sciences 
+- through five courses aimed at developing and enriching both the learner’s mind and heart
 -
-edX Verified Certificate:
+edX Verified Certificate
 - courses completed:
 - University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
 - Harvard University, CS50’s Computer Science for Business Professionals 2021 
