@@ -11,16 +11,15 @@ Ong Ser Thong, Adelaide MBA.
 - | https://v2.credential.net/profile/ongserthong325210/wallet |
 
 # EXPERIENCE
-
 SUCCESS FOREVER CONSTRUCTION 2018 - 2020 
 - Project Manager
 - Performed structural repair work for HDB and Town Council
 -
-ETANA RESOURCES PTE LTD 2017 - 2018 
+ETANA RESOURCES 2017 - 2018 
 - Senior Engineer
 - Maintenance of sensitive equipment for SAF
 -
-TRADISITICS PTE LTD 2000 - 2017
+TRADISITICS 2000 - 2017
 - Executive Director
 - (notable partners)
 - GAIN CITY ENGINEERING
@@ -34,7 +33,7 @@ TRADISITICS PTE LTD 2000 - 2017
 - BOOKWORM COUNSULTANTS
 - NEC COMPUTERS INTERNATIONAL 
 -
-MINUS 10 PTE LTD 2000 - 2000 
+MINUS 10 2000 - 2000 
 - Chief Information Officer 
 - eCommerce 
 -
@@ -42,7 +41,7 @@ RHONE POULENC – SANOFI 1993 - 2001
 - Medical Executive
 - Consumable Drugs / Vaccines
 -
-ELTEAN AGENCIES PTE LTD 1990 - 1993
+ELTEAN AGENCIES 1990 - 1993
 - Products Executive
 - Skin Care Products
 -
@@ -55,22 +54,19 @@ SAF OETI 1973 - 1983
 - Senior Instructor School of Doctrine 
 
 # EDUCATION
-
-National University of Singapore, 2021 ~ Present
-- 
-Professional Certificate in Fintech Senior Developer 2021
+Professional Certificate in NUS Fintech Senior Developer 2021
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract with Blockchain 2021
 - Algo-Trading: Theory and Practice 2021
 -
-Professional Certificate in Fintech Developer 2021
+Professional Certificate in NUS Fintech Developer 2021
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend 
 - Developers Toolkit Part 2: Middleware to Backend 
 - APIs and RPA: Automation, Bots and Future 
 -
-Professional Certificate in Fintech Associate 2021 
+Professional Certificate in NUS Fintech Associate 2021 
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions 
