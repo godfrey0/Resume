@@ -2,7 +2,7 @@ RESUME
 
 Ong Ser Thong, Adelaide MBA.
 
-- | whatsapp +65 81813136 |
+- | WhatsApp +65 81813136 |
 - | serthongong@gmail.com |
 - | https://github.com/godfrey0 | 
 - | https://github.com/godfrey0/resume.git |
@@ -10,7 +10,7 @@ Ong Ser Thong, Adelaide MBA.
 - | www.linkedin.com/in/godfrey0-b13a49208 | 
 - | https://v2.credential.net/profile/ongserthong325210/wallet |
 
-EXPERIENCE:
+#EXPERIENCE:
 -
 SUCCESS FOREVER CONSTRUCTION 2018 - 2020 
 - Project Manager
@@ -54,10 +54,11 @@ SAF OETI 1973 - 1983
 - Ordnance Engineering Training Institute 
 - Senior Instructor School of Doctrine 
 
-EDUCATION:
+#EDUCATION:
 - 
 National University of Singapore 
 - 2021 ~ Present
+- 
 Professional Certificate in Fintech Senior Developer 2021
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
