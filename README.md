@@ -1,8 +1,8 @@
 Resume
 
-Ong Ser Thong 
-Adelaide MBA, +65 81813136
-
+Ong Ser Thong, Adelaide MBA
+- +65 81813136
+- 
 - | serthongong@gmail.com |
 - | https://github.com/godfrey0 | 
 - | https://github.com/godfrey0/resume.git |
@@ -14,14 +14,14 @@ PROFESSIONAL EXPERIENCE:
 SUCCESS FOREVER CONSTRUCTION 2018 - 2019, 
 - Project Manager
 - Performed structural repair work for HDB and Town Council
-
+-
 ETANA RESOURCES PTE LTD 2017 - 2018, 
 - Senior Engineer
 - Maintenance of sensitive equipment for SAF
-
+-
 TRADISITICS PTE LTD 2000 - 2017, 
 - Executive Director
-(notable partner):
+- (notable partners):
 - GAIN CITY ENGINEERING,
 - NOJIMA COURTS SUPERSTORE, 
 - BEST DENKI,
@@ -32,27 +32,27 @@ TRADISITICS PTE LTD 2000 - 2017,
 - IDA NEU PC PLUS,
 - BOOKWORM COUNSULTANTS,
 - NEC COMPUTERS INTERNATIONAL, 
-
+-
 MINUS 10 PTE LTD 2000 - 2000, 
 - Chief Information Officer 
 - eCommerce 
-
+-
 RHONE POULENC – SANOFI 1993 - 2001,
 - Medical Executive
 - Consumable Drugs / Vaccines
-
+-
 ELTEAN AGENCIES PTE LTD 1990 - 1993,
 - Products Executive
 - Skin Care Products
-
+-
 BETHESDA HALL AMK 1989 - 1990,
 - Chief Instructor
 - Queensland Mailbox Bible Correspondence Course 
-
+-
 SAF OETI 1973 - 1983,
 - Ordnance Engineering Training Institute 
 - Senior Instructor School of Doctrine 
-
+-
 EDUCATION:
 - National University of Singapore 2021 ~ Present,
 - 
@@ -61,38 +61,38 @@ Professional Certificate in Fintech Senior Developer 2021,
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract with Blockchain 2021
 - Algo-Trading: Theory and Practice 2021
-
+-
 Professional Certificate in Fintech Developer 2021, 
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend 
 - Developers Toolkit Part 2: Middleware to Backend 
 - APIs and RPA: Automation, Bots and Future 
-
+-
 Professional Certificate in Fintech Associate 2021, 
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions 
 - Beyond Disruptions: Digitalising Financial Services 
 - Delight Customers and Protect Privacy with AI and Blockchain 
-
+-
 Professional Certificate in Business Analytics & AI for Finance, Retail & Supply Chain 2021,
 - courses completed:
 - Making Fast Decisions with Business Analytics
 - Optimising Customers’ Experience with Fintech Strategy 
 - Using Business Analytics to Answer Business Questions 
 - Fundamental of Investing Leveraging Technology 
-
+-
 Professional Certificate in Human and Automated Managerial Skills 2021,
 - courses completed:
 - The Faculty of Arts and Social Sciences through five courses aimed at developing and enriching both the learner’s mind and heart. 
-
+-
 edX Verified Certificate:
 - courses completed:
 - University Cote d’ Azur, W3Cx, JavaScript Introduction 2021,
 - Harvard University, CS50’s Computer Science for Business Professionals 2021, 
 - University of Michigan, Programming for Everybody Getting Started with Python 2021, 
 - Imperial College London, Creative Thinking: Techniques and Tools 2021, 
-
+-
 National University of Singapore: 
 - courses completed:
 - APIs and RPA: Automation, Bots and Future programme 2021,
@@ -106,7 +106,7 @@ National University of Singapore:
 - Using Business Analytics to Answer Business Questions programme 2021, 
 - Optimizing Customers’ Experience with FinTech Technology programme 2021, 
 - Making Fast Decisions with Business Analytics programme 2021,
-
+-
 Singapore Business Federation Business Institute
 - courses completed:
 - Vetting and Securing a Joint venture Agreement certificate 2019,
@@ -123,8 +123,7 @@ Singapore Business Federation Business Institute
 - Negotiation & Business Decision-Making in Southeast Asia certificate 2018,
 - Introduction to Business Culture Protocol & Communications with SEA Market certificate 2018,
 - Steps to Build A Cyber-Security Strategy for the International Market 2018, 
-
-
+-
 Other Qualification:
 - Master of Business Administration ~ University of Adelaide 2001,
 - Bachelor in Ministry ~ Theological Centre for Asia 1996,
