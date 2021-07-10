@@ -56,7 +56,8 @@ SAF OETI 1973 - 1983
 
 EDUCATION:
 - 
-National University of Singapore 2021 - Present
+National University of Singapore 
+- 2021 ~ Present
 Professional Certificate in Fintech Senior Developer 2021
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
