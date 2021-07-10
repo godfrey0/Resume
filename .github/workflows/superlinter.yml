@@ -11,8 +11,8 @@ jobs:
       uses: actions/checkoutQv2
   
     - name: Run Super-Linter
-      uses: github/super-linterQv3
-       env:
+      uses: github/super-linter@v3
+      env:
   
           DEFAULT_BRANCH: master
   
