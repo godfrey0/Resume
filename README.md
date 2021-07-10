@@ -10,7 +10,7 @@ Adelaide MBA, +65 81813136
 | www.linkedin.com/in/godfrey0-b13a49208 | 
 | https://v2.credential.net/profile/ongserthong325210/wallet |
 
-EXPERIENCE:
+PROFESSIONAL EXPERIENCE:
 SUCCESS FOREVER CONSTRUCTION 2018 - 2019 
 Project Manager
 Structural repair work done for HDB and Town Council
@@ -22,16 +22,16 @@ Maintenance of sensitive equipment for SAF
 TRADISITICS PTE LTD 2000 - 2017 
 Executive Director
 Notable Partners:
-GAIN CITY ENGINEERING (M&E)
-NOJIMA COURTS SUPERSTORE 
-BEST DENKI
-HARVEY NORMAN
-IC FRITH
-FAIR PRICE
-OFFICE 1 PTE LTD
-IDA NEU PC PLUS
-BOOKWORM COUNSULTANTS
-NEC COMPUTERS INTERNATIONAL 
+GAIN CITY ENGINEERING,
+NOJIMA COURTS SUPERSTORE, 
+BEST DENKI,
+HARVEY NORMAN,
+IC FRITH,
+FAIR PRICE,
+OFFICE 1,
+IDA NEU PC PLUS,
+BOOKWORM COUNSULTANTS,
+NEC COMPUTERS INTERNATIONAL, 
 
 MINUS 10 PTE LTD 2000 - 2000 
 Chief Information Officer 
@@ -54,7 +54,7 @@ Ordnance Engineering Training Institute
 Senior Instructor School of Doctrine 
 
 EDUCATION:
-National University of Singapore 2021 - Present 
+National University of Singapore 2021 - Present;
 
 Professional Certificate in Fintech Senior Developer 2021 
 Courses completed:
@@ -68,8 +68,8 @@ Courses completed:
 - Developers Toolkit Part 2: Middleware to Backend 
 - APIs and RPA: Automation, Bots and Future 
 
-- Professional Certificate in Fintech Associate 2021 
-- Courses completed:
+Professional Certificate in Fintech Associate 2021 
+Courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions 
 - Beyond Disruptions: Digitalising Financial Services 
@@ -80,59 +80,58 @@ Courses completed:
 - Making Fast Decisions with Business Analytics
 - Optimising Customers’ Experience with Fintech Strategy 
 - Using Business Analytics to Answer Business Questions 
-- - Fundamental of Investing Leveraging Technology 
+- Fundamental of Investing Leveraging Technology 
 
 Professional Certificate in Human and Automated Managerial Skills 2021
 The Faculty of Arts and Social Sciences through five courses aimed 
 at developing and enriching both the learner’s mind and heart. 
 
-edX Verified Certificate 
+edX Verified Certificate:
 University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
 Harvard University, CS50’s Computer Science for Business Professionals 2021 
 University of Michigan, Programming for Everybody Getting Started with Python 2021 
 Imperial College London, Creative Thinking: Techniques and Tools 2021 
 
-National University of Singapore 
-APIs and RPA: Automation, Bots and Future programme 2021
-Developers Toolkit Part 2: Middleware to Backend programme 2021
-Developers Toolkit Part 1: Connecting the Frontend programme 2021
+National University of Singapore: 
+~ APIs and RPA: Automation, Bots and Future programme 2021,
+~ Developers Toolkit Part 2: Middleware to Backend programme 2021,
+~ Developers Toolkit Part 1: Connecting the Frontend programme 2021,
+~ Fintech: Concepts, Cases and Technology programme 2021,
+~ Delight Customers and Protect Privacy with AI and Blockchain programme 2021, 
+~ Beyond Disruptions: Digitalising Financial Services programme 2021,
+~ Design Thinking: Creative and Strategic Business Solutions programme 2021, 
+~ Fundamentals of Investing Leveraging Technology programme 2021,
+~ Using Business Analytics to Answer Business Questions programme 2021, 
+~ Optimizing Customers’ Experience with FinTech Technology programme 2021, 
+~ Making Fast Decisions with Business Analytics programme 2021,
 
-Fintech: Concepts, Cases and Technology programme 2021
-Delight Customers and Protect Privacy with AI and Blockchain programme 2021 
-Beyond Disruptions: Digitalising Financial Services programme 2021
-Design Thinking: Creative and Strategic Business Solutions programme 2021 
+Singapore Business Federation, Business Institute: 
+~ Vetting and Securing a Joint venture Agreement certificate 2019,
+~ Avoiding Fraud in Trade Finance in An International Climate certificate 2019,
+~ Understanding Transfer Pricing certificate 2019,
+~ Effective Foreign Currency Management certificate 2019,
+~ International Business Social Media Strategies & Market Research certificate 2019,
+~ Introduction to Business Practices in the ASEAN Economic Community certificate 2018, 
+~ Introduction to Marketing and Advertising for Consumer & B2B Products certificate 2018, 
+~ Cross-Cultural Business Negotiation certificate 2018,
+~ Managing Procurement Agreements & Practical Tips certificate 2018,
+~ INCO Terms 2010 (ICC Academy Accredited) certificate 2018,
+~ Practical Approach Vetting / Drafting Sale of Purchase & Service Level Agreement certificate 2018, 
+~ Negotiation & Business Decision-Making in Southeast Asia certificate 2018,
+~ Introduction to Business Culture Protocol & Communications with SEA Market certificate 2018,
+~ Steps to Build A Cyber-Security Strategy for the International Market 2018, 
 
-Fundamentals of Investing Leveraging Technology programme 2021
-Using Business Analytics to Answer Business Questions programme 2021 
-Optimizing Customers’ Experience with FinTech Technology programme 2021 
-Making Fast Decisions with Business Analytics programme 2921
-
-Singapore Business Federation, Business Institute 
-Vetting and Securing a Joint venture Agreement certificate 2019
-Avoiding Fraud in Trade Finance in An International Climate certificate 2019
-Understanding Transfer Pricing certificate 2019
-Effective Foreign Currency Management certificate 2019
-International Business Social Media Strategies & Market Research certificate 2019
-Introduction to Business Practices in the ASEAN Economic Community certificate 2018 
-Introduction to Marketing and Advertising for Consumer & B2B Products certificate 2018 
-Cross-Cultural Business Negotiation certificate 2018
-Managing Procurement Agreements & Practical Tips certificate 2018
-INCO Terms 2010 (ICC Academy Accredited) certificate 2018
-Practical Approach Vetting / Drafting Sale of Purchase & Service Level Agreement certificate 2018 
-Negotiation & Business Decision-Making in Southeast Asia certificate 2018
-Introduction to Business Culture Protocol & Communications with SEA Market certificate 2018
-Steps to Build A Cyber-Security Strategy for the International Market 2018 
-
-Master of Business Administration ~ University of Adelaide 2001
-Bachelor in Ministry ~ Theological Centre for Asia 1996
-Diploma in Theology ~ Singapore Bible College 1987
-Diploma LTI ~ CEF Missouri, USA 1984
-Specialist Diploma in Franchise & Enterprise ~ Ngee Ann Polytechnic 2017
-Qualified Medical Representative ~ Singapore Pharmaceutical Industries, SAPI 1994 
-Building Construction Authority ~ Certified Installer for Air-conditioning Unit 2014
-Ministry of Manpower, Singapore ~ Certified Biz Safe Level 1,2 & 3 Risk Management 2016 
-GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
-Certificate of Achievment ~ Dirad 2020
-Executive Proram ~ SOLTAM Systems Ltd, Haifa, Israel 1976
+Other Qualification:
+~ Master of Business Administration ~ University of Adelaide 2001,
+~ Bachelor in Ministry ~ Theological Centre for Asia 1996,
+~ Diploma in Theology ~ Singapore Bible College 1987,
+~ Diploma LTI ~ CEF Missouri, USA 1984,
+~ Specialist Diploma in Franchise & Enterprise ~ Ngee Ann Polytechnic 2017,
+~ Qualified Medical Representative ~ Singapore Pharmaceutical Industries, SAPI 1994, 
+~ Building Construction Authority ~ Certified Installer for Air-conditioning Unit 2014,
+~ Ministry of Manpower, Singapore ~ Certified Biz Safe Level 1,2 & 3 Risk Management 2016, 
+~ GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981,
+~ Certificate of Achievment ~ Dirad 2020,
+~ Executive Proram ~ SOLTAM Systems Ltd, Haifa, Israel 1976,
 
 End of Statement
