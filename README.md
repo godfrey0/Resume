@@ -147,4 +147,8 @@ Other Qualification:
 - Dip LTI, CEF Missouri 1984
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
+Awards:
+SOE Awards nominee 2016
+SQC Awards nominee 2015
+-
 End of Statement
