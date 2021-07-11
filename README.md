@@ -1,20 +1,20 @@
 # RESUME
-
 Ong Ser Thong, Adelaide MBA.
-- https://github.com/godfrey0/resume.git 
-- https://v2.credential.net/profile/ongserthong325210/wallet 
+https://github.com/godfrey0/resume.git 
+https://v2.credential.net/profile/ongserthong325210/wallet 
 
-- WhatsApp +65 81813136 
-- serthongong@gmail.com 
-- https://github.com/godfrey0 
-- https://github.com/godfrey0/resume.git 
-- http://iro-iro.iroirojpnrest.repl.co
-- www.linkedin.com/in/godfrey0-b13a49208 
-- https://v2.credential.net/profile/ongserthong325210/wallet 
-- https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a 
-- https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
-- https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7 
-- https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
+#URLs
+WhatsApp +65 81813136 
+serthongong@gmail.com 
+https://github.com/godfrey0 
+https://github.com/godfrey0/resume.git 
+http://iro-iro.iroirojpnrest.repl.co
+www.linkedin.com/in/godfrey0-b13a49208 
+https://v2.credential.net/profile/ongserthong325210/wallet 
+https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a 
+https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
+https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7 
+https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
 
 
 # EXPERIENCE
