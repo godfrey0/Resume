@@ -62,7 +62,8 @@ SAF OETI 1973 - 1983
 # EDUCATION
 National University of Singapore 2001 - Present
 
-National University of Singapore School of Computing
+National University of Singapore School of Computing 
+
 Professional Certificate in NUS Fintech Senior Developer 2021
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
@@ -89,7 +90,8 @@ Professional Certificate in Business Analytics & AI for Finance, Retail & Supply
 - Using Business Analytics to Answer Business Questions 
 - Fundamental of Investing Leveraging Technology 
 -
-National University of Singapore The Faculty of Arts and Social Sciences
+National University of Singapore The Faculty of Arts and Social Sciences 
+
 Professional Certificate in Human and Automated Managerial Skills 2021 
 - courses completed: 
 - Through five courses aimed at developing and enriching both the learner’s mind and heart
