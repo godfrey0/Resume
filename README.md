@@ -148,7 +148,7 @@ Other Qualification:
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 Awards: 
-- Spirit Of Enterprise Awards nominee 2016 
-- Singapore Quality Class Awards nominee 2015
+- Spirit Of Enterprise Awards nominee 2012 
+- Singapore Quality Class Awards nominee 2011`
 -
 End of Statement
