@@ -81,9 +81,9 @@ Professional Certificate in Business Analytics & AI for Finance, Retail & Supply
 - Fundamental of Investing Leveraging Technology 
 -
 Professional Certificate in Human and Automated Managerial Skills 2021
-- courses completed:
 - The Faculty of Arts and Social Sciences 
-- through five courses aimed at developing and enriching both the learner’s mind and heart
+- courses completed: 
+- Through five courses aimed at developing and enriching both the learner’s mind and heart
 -
 edX Verified Certificate
 - courses completed:
