@@ -130,7 +130,7 @@ Singapore Business Federation Business Institute
 - Managing Procurement Agreements & Practical Tips 2018
 - INCO Terms 2010 ICC Academy Accredited 2018
 - Practical Approach Vetting / Drafting Sale of Purchase & Service Level Agreement 2018 
-- Negotiation & Business Decision-Making in Southeast Asia 2018
+- Negotiation & Business Decision Making in Southeast Asia 2018
 - Introduction to Business Culture Protocol & Communications with SEA Market 2018
 - Steps to Build A Cyber-Security Strategy for the International Market 2018 
 -
