@@ -149,6 +149,6 @@ Other Qualification:
 -
 Awards: 
 - Spirit Of Enterprise Awards nominee 2012 
-- Singapore Quality Class Awards nominee 2011`
+- Singapore Quality Class Awards nominee 2011
 -
 End of Statement
