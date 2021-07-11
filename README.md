@@ -138,7 +138,7 @@ Other Qualification:
 - MBA, University of Adelaide 2001
 - B. Min, Theological Centre for Asia 1996
 - Dip Th, Singapore Bible College 1987
-- SFEM Franchise Enterprise Management, Ngee Ann Polytechnic 2017
+- SDFEM Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - QMR SAPI, Singapore Pharmaceutical Industries 1994 
 - BCA, Certified Installer for Air-conditioning Unit 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016 
