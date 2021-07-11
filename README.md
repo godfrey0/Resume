@@ -1,15 +1,16 @@
 # RESUME
 Ong Ser Thong, Adelaide MBA.
+-
 https://github.com/godfrey0/resume.git 
 https://v2.credential.net/profile/ongserthong325210/wallet 
 
-#URLs
+# URLs
 WhatsApp +65 81813136 
 serthongong@gmail.com 
-https://github.com/godfrey0 
-https://github.com/godfrey0/resume.git 
 http://iro-iro.iroirojpnrest.repl.co
 www.linkedin.com/in/godfrey0-b13a49208 
+https://github.com/godfrey0 
+https://github.com/godfrey0/resume.git 
 https://v2.credential.net/profile/ongserthong325210/wallet 
 https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a 
 https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
