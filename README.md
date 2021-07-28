@@ -9,6 +9,7 @@ Ong Ser Thong, Adelaide MBA. +65 81813136
 - http://iro-iro.iroirojpnrest.repl.co 
 - https://github.com/godfrey0 
 - https://github.com/godfrey0/resume.git 
+- https://godfrey0.github.io/IroIroJapaneseRestaurant
 - https://v2.credential.net/profile/ongserthong325210/wallet 
 - https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a 
 - https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170 
@@ -94,7 +95,12 @@ National University of Singapore The Faculty of Arts and Social Sciences
 
 Professional Certificate in Human and Automated Managerial Skills 2021 
 - courses completed: 
-- Through five courses aimed at developing and enriching both the learner’s mind and heart
+- Meaning to Mindsets
+- Positivity and Wellbeing
+- Support and Service
+- How to Critically reason with Data on Microsoft Excel
+- The Fundamentals of Algorithm Design and the Politics of Algorithms
+- The 5 courses aimed at developing and enriching both the learner’s mind and heart
 -
 edX 
 - courses completed:
