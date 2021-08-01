@@ -1,6 +1,6 @@
 # RESUME
 Ong Ser Thong, Adelaide MBA. +65 81813136
-- https://github.com/godfrey0/resume.git
+- 
 - https://v2.credential.net/profile/ongserthong325210/wallet 
 
 # URLs
@@ -27,7 +27,7 @@ ETANA RESOURCES 2017 - 2018
 - Maintenance of sensitive equipment for SAF
 -
 TRADISITICS 2000 - 2017
-- Chief Technical Officer
+- CTO
 - (notable partners)
 - GAIN CITY ENGINEERING
 - NOJIMA COURTS SUPERSTORE 
@@ -41,7 +41,7 @@ TRADISITICS 2000 - 2017
 - NEC COMPUTERS INTERNATIONAL 
 -
 MINUS 10 2000 - 2000 
-- Chief Information Officer 
+- CIO
 - eCommerce 
 -
 RHONE POULENC SANOFI PHARMA 1993 - 2001
@@ -63,44 +63,48 @@ SAF OETI 1973 - 1983
 # EDUCATION
 National University of Singapore 2001 - Present
 
-National University of Singapore School of Computing 
+National University of Singapore 
+School of Computing 
 
-Professional Certificate in NUS Fintech Senior Developer 2021
+Professional Certificate Fintech Senior Developer 2021
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract with Blockchain 2021
 - Algo-Trading: Theory and Practice 2021
 -
-Professional Certificate in NUS Fintech Developer 2021
+Professional Certificate Fintech Developer 2021
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend 
 - Developers Toolkit Part 2: Middleware to Backend 
 - APIs and RPA: Automation, Bots and Future 
 -
-Professional Certificate in NUS Fintech Associate 2021 
+Professional Certificate Fintech Associate 2021 
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions 
 - Beyond Disruptions: Digitalising Financial Services 
 - Delight Customers and Protect Privacy with AI and Blockchain 
 -
-Professional Certificate in Business Analytics & AI for Finance, Retail & Supply Chain 2021
+Professional Certificate Business Analytics & 
+AI for Finance, Retail and Supply Chain 2021
 - courses completed:
 - Making Fast Decisions with Business Analytics
 - Optimising Customers’ Experience with Fintech Strategy 
 - Using Business Analytics to Answer Business Questions 
 - Fundamental of Investing Leveraging Technology 
 -
-National University of Singapore The Faculty of Arts and Social Sciences 
 
-Professional Certificate in Human and Automated Managerial Skills 2021 
+National University of Singapore 
+The Faculty of Arts and Social Sciences 
+
+Professional Certificate Human and Automated Managerial Skills 2021 
 - courses completed: 
 - Meaning to Mindsets
 - Positivity and Wellbeing
 - Support and Service
 - How to Critically reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
-- The 5 courses aimed at developing and enriching both the learner’s mind and heart
+- 5 courses aimed at enriching both the learner’s mind and heart
 -
 edX 
 - courses completed:
@@ -109,7 +113,8 @@ edX
 - University of Michigan, Programming for Everybody Getting Started with Python 2021 
 - Imperial College London, Creative Thinking: Techniques and Tools 2021 
 -
-National University of Singapore School of Computing
+National University of Singapore 
+School of Computing
 - courses completed:
 - APIs and RPA: Automation, Bots and Future 2021
 - Developers Toolkit Part 2: Middleware to Backend 2021
@@ -141,16 +146,16 @@ Singapore Business Federation Business Institute
 - Steps to Build A Cyber-Security Strategy for the International Market 2018 
 -
 Other Qualification:
-- MBA, University of Adelaide 2001
-- B. Min, Theological Centre for Asia 1996
-- Dip Th, Singapore Bible College 1987
-- SDFEM Franchise Enterprise Management, Ngee Ann Polytechnic 2017
-- QMR SAPI, Singapore Pharmaceutical Industries 1994 
+- MBA., University of Adelaide 2001
+- B. Min., Theological Centre for Asia 1996
+- Dip. Th., Singapore Bible College 1987
+- SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
+- QMR., SAPI, Singapore Pharmaceutical Industries 1994 
 - BCA, Certified Installer for Air-conditioning Unit 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016 
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
 - Certificate of Achievment, Dirad 2020
-- Dip LTI, CEF Missouri 1984
+- Dip., LTI, CEF Missouri 1984
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 Awards: 
