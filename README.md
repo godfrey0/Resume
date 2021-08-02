@@ -58,7 +58,7 @@ BETHESDA HALL AMK 1989~1990
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
 -
-SAF OETI Ordnance Engineering Training Institute 1973~1983
+SAF OETI 1973~1983
 - Senior Instructor School of Doctrine
 - Ordnance Engineering Training Institute 
  
@@ -165,5 +165,6 @@ Other Qualification:
 Awards: 
 - Spirit Of Enterprise Awards nominee 2012 
 - Singapore Quality Class Awards nominee 2011
--
+- SAF Good Service Medal 1977
+- 
 End of Statement
