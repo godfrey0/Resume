@@ -158,8 +158,10 @@ Other Qualification:
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
 - Certificate of Achievment, Dirad 2020
 - Dip., LTI, CEF Missouri 1984
-- Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
 - Unarmed Combat Instructor, SAFTI School of PTI, 1980
+- Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
+- Armourer to Gun fitter Conversion Course, SAF OETI, 1977
+- Armourer Class 1, SAF WOB, 1974
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 Awards: 
