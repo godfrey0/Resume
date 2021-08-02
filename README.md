@@ -1,6 +1,5 @@
 # RESUME
 Ong Ser Thong, Adelaide MBA. +65 81813136
-- 
 - https://v2.credential.net/profile/ongserthong325210/wallet 
 
 # URLs
@@ -18,15 +17,15 @@ Ong Ser Thong, Adelaide MBA. +65 81813136
 
 
 # EXPERIENCE
-SUCCESS FOREVER CONSTRUCTION 2018 - 2020 
+SUCCESS FOREVER CONSTRUCTION 2018~2020 
 - Project Manager
 - Performed structural repair work for HDB and Town Council
 -
-ETANA RESOURCES 2017 - 2018 
+ETANA RESOURCES 2017~2018 
 - Senior Engineer
 - Maintenance of sensitive equipment for SAF
 -
-TRADISITICS 2000 - 2017
+TRADISITICS 2000~2017
 - CTO
 - (notable partners)
 - GAIN CITY ENGINEERING
@@ -40,23 +39,26 @@ TRADISITICS 2000 - 2017
 - BOOKWORM COUNSULTANTS
 - NEC COMPUTERS INTERNATIONAL 
 -
-MINUS 10 2000 - 2000 
+MINUS 10 2000~2000 
 - CIO
 - eCommerce 
 -
-RHONE POULENC SANOFI PHARMA 1993 - 2001
+RHONE POULENC SANOFI PHARMA 1993~2001
 - Medical Executive
 - Consumable Drugs / Vaccines
 -
-ELTEAN AGENCIES 1990 - 1993
+ELTEAN AGENCIES 1990~1993
 - Products Executive
 - Skin Care Products
 -
-BETHESDA HALL AMK 1989 - 1990
+BETHESDA HALL AMK 1989~1990
 - Chief Instructor
 - Queensland Mailbox Bible Correspondence Course 
 -
-SAF OETI 1973 - 1983
+SILAT II PRIMARY SCHOOL 1983~1983
+- Relief Teacher
+-
+SAF OETI Ordnance Engineering Training Institute 1973~1983
 - Senior Instructor School of Doctrine
 - Ordnance Engineering Training Institute 
  
@@ -156,6 +158,8 @@ Other Qualification:
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
 - Certificate of Achievment, Dirad 2020
 - Dip., LTI, CEF Missouri 1984
+- Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
+- Unarmed Combat Instructor, SAFTI School of PTI, 1980
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 Awards: 
