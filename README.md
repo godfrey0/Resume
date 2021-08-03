@@ -171,8 +171,9 @@ Other Qualification:
 - Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
 - Armourer to Gun fitter Conversion Course, SAF OETI, 1977
 - Armourer Class 1, SAF WOB, 1974
-- MOH, Trained Supervisor in ART Self-Swab, HMI, 2021
-- Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
+- MOH, ART Self-Swab, HMI, 2021
+- MOH, SRS-ESSS, HPB, 2021 
+- - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 Awards: 
 - Spirit Of Enterprise Awards nominee 2012 
