@@ -43,7 +43,7 @@ MINUS 10 2000~2000
 - CIO
 - eCommerce 
 -
-RHONE POULENC SANOFI PHARMA 1993~2001
+SANOFI RHONE POULENC PHARMA 1993~2001
 - Medical Executive
 - Consumable Drugs / Vaccines
 -
@@ -153,7 +153,7 @@ Other Qualification:
 - Dip. Th., Singapore Bible College 1987
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994 
-- BCA, Certified Installer for Air-conditioning Unit 2014
+- BCA, Trained Installer Air-Conditioning Structure, 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016 
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
 - Certificate of Achievment, Dirad 2020
@@ -162,6 +162,7 @@ Other Qualification:
 - Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
 - Armourer to Gun fitter Conversion Course, SAF OETI, 1977
 - Armourer Class 1, SAF WOB, 1974
+- MOH, Trained Supervisor in ART Self-Swab, HMI, 2021
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 Awards: 
