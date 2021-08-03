@@ -1,9 +1,8 @@
 # RESUME
 Ong Ser Thong, Adelaide MBA. +65 81813136
-- https://v2.credential.net/profile/ongserthong325210/wallet 
+t0921234@u.nus.edu / serthongong@gmail.com
 
 # URLs
-- serthongong@gmail.com 
 - www.linkedin.com/in/godfrey0-b13a49208 
 - http://iro-iro.iroirojpnrest.repl.co 
 - https://github.com/godfrey0 
