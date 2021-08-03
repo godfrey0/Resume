@@ -23,21 +23,31 @@ SUCCESS FOREVER CONSTRUCTION 2018~2020
 -
 ETANA RESOURCES 2017~2018 
 - Senior Engineer
-- Maintenance of sensitive equipment for SAF
+- Maintenance Equipment for SAF
 -
 TRADISITICS 2000~2017
 - CTO
+- 
+- (notable programmes)
+- AHA Extended Warranty
+- Doctor Digital
+- Data Recovery
+- IDA NEU PC
+- Safety 5
+- U-Save
+- 
 - (notable partners)
 - GAIN CITY ENGINEERING
 - NOJIMA COURTS SUPERSTORE 
 - BEST DENKI
 - HARVEY NORMAN
 - IC FRITH
-- FAIR PRICE
+- NTUC, FAIRPRICE
 - OFFICE 1
-- IDA NEU PC PLUS
+- IDA, Infocomm Media Authority of Singapore
 - BOOKWORM COUNSULTANTS
-- NEC COMPUTERS INTERNATIONAL 
+- NEC COMPUTERS INTERNATIONAL
+- PACKARD BELL 
 -
 MINUS 10 2000~2000 
 - CIO
@@ -58,8 +68,8 @@ BETHESDA HALL AMK 1989~1990
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
 -
-SAF OETI 1973~1983
-- Senior Instructor School of Doctrine
+SAF OETI, School of Docrtrine 1973~1983
+- Lead Invigilator
 - Ordnance Engineering Training Institute 
  
 # EDUCATION
